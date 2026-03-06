@@ -1,0 +1,131 @@
+Instrucciones para Replit: App de Apoyo a Salud Mental
+1️⃣ Nombre y propósito
+
+Nombre de la app: MentalCare Companion
+
+Propósito: Acompañar al usuario en su salud mental diaria, ofreciendo registro de emociones, recursos guiados, reflexión personal y seguimiento del bienestar.
+
+Funcionalidades clave:
+
+Registro diario de emociones y pensamientos
+
+Biblioteca de ejercicios y artículos de apoyo
+
+Diario personal para reflexiones
+
+Dashboard con resumen del estado de ánimo y progreso
+
+Perfil y configuraciones personalizadas
+
+2️⃣ Pantallas clave y componentes
+Pantalla 1: Inicio / Dashboard
+
+Contenido:
+
+Bienvenida personalizada al usuario.
+
+Resumen de registro diario: ánimo actual, últimos retos completados, progreso semanal.
+
+Accesos directos a:
+
+Registrar estado de ánimo
+
+Diario personal
+
+Biblioteca de recursos
+
+Función: centro de navegación y motivación diaria.
+
+Pantalla 2: Registro de Estado de Ánimo
+
+Contenido:
+
+Selector de emociones (ej: feliz, triste, ansioso, calmado).
+
+Espacio para comentarios o reflexiones cortas.
+
+Botón para guardar registro.
+
+Función: llevar control diario de emociones y alimentar estadísticas del usuario.
+
+Pantalla 3: Biblioteca de Recursos
+
+Contenido:
+
+Lista de artículos, meditaciones guiadas, ejercicios prácticos.
+
+Filtros por categoría o duración.
+
+Visualización rápida y posibilidad de marcar como “leído” o “completado”.
+
+Función: ofrecer herramientas de apoyo prácticas y organizadas.
+
+Pantalla 4: Diario / Notas
+
+Contenido:
+
+Área de texto libre para registrar pensamientos, reflexiones o experiencias del día.
+
+Opcional: organización por fecha.
+
+Botón para guardar entradas.
+
+Función: espacio seguro y privado de auto-reflexión.
+
+Pantalla 5: Configuración / Perfil
+
+Contenido:
+
+Nombre del usuario y datos básicos.
+
+Preferencias de notificaciones.
+
+Opciones de modo oscuro/claro.
+
+Historial de entradas y progreso acumulado.
+
+Función: personalización y gestión de la app.
+
+3️⃣ Funcionalidades clave dentro de Replit
+
+Persistencia interna: almacenar registros de estado de ánimo, diario, progreso de lectura y ejercicios completados usando Replit como base de datos interna.
+
+Dashboard dinámico: mostrar progreso semanal, número de días con registro, nivel de constancia en ejercicios.
+
+Interacciones del usuario:
+
+Registrar estado de ánimo diario.
+
+Guardar entradas de diario.
+
+Marcar ejercicios o lecturas como completadas.
+
+Visualizaciones motivacionales: gráficos o barras de progreso para mostrar consistencia en el bienestar mental.
+
+Notificaciones internas: recordatorios suaves para registrar estado de ánimo o completar ejercicios.
+
+4️⃣ Estilo visual y UX
+
+Tonos cálidos y relajantes, esquema de colores modo oscuro opcional.
+
+Interfaz clara, intuitiva y segura.
+
+Componentes interactivos: botones grandes, barras de progreso, lista de recursos con iconos de completado.
+
+Experiencia empática y motivadora, nunca juzgando al usuario.
+
+5️⃣ Flujo de la app
+
+Usuario abre la app → Pantalla de Inicio/Dashboard
+
+Puede navegar a:
+
+Registro de Estado de Ánimo
+
+Biblioteca de Recursos
+
+Diario / Notas
+
+Configuración / Perfil
+
+Todas las interacciones se registran internamente en Replit para mantener progreso, historial y estadísticas aunque se cierre la sesión.
